@@ -1,7 +1,7 @@
 ---
 title: Een kleine klok in nood
 date: "2021-04-05"
-description: "Een paasavontuur voor kinderen vanaf 6 jaar (niet geschikt voor kinderen en ouders zonder fantasie)"
+description: "Een paasavontuur voor kinderen vanaf 6 jaar. <br>Niet geschikt voor kinderen en ouders zonder fantasie."
 ---
 
 ## Proloog
@@ -40,7 +40,8 @@ nacht doorvliegen om voor de ochtend weer bij onze toren te zijn.”<br>
 Het kleine klokje zucht diep. Zijn eerste tocht is nog maar net begonnen en hij slaat al enkele tuinen
 over. Dat kan hij toch niet laten gebeuren.<br>
 Hij haalt diep adem en schiet dapper naar beneden. Terwijl hij terugvliegt, klingelt hij snel:
-“Ik haal jullie wel in!”.<br>
+“Ik haal jullie wel in!”.
+
 Nu hij de veilige klokkenfamilie heeft verlaten, wordt de kleine klok meteen gegrepen door de wind.
 Hij blijft dapper met zijn vleugels fladderen om op koers te blijven. Maar de wind is sterker. Er vliegt
 een tak tegen zijn rechtervleugel, waardoor het klokje begint te tollen. Hij klingelt wanhopig om

@@ -19,7 +19,7 @@ const Bio = () => {
             summary
           }
           social {
-            twitter
+            facebook
           }
         }
       }
@@ -46,7 +46,8 @@ const Bio = () => {
         <p>
           Geschreven door <strong>{author.name}</strong>.<br></br> {author?.summary || null}
           {` `}
-          <a href={`https://instagram.com/${social?.instagram || ``}`}>
+          <br></br>
+          <a href={`https://instagram.com/${social.facebook}`}>
             Volg me op instagram.
           </a>
         </p>

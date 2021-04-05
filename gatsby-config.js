@@ -3,12 +3,11 @@ module.exports = {
     title: `Het verhalenpaleis`,
     author: {
       name: `Eva Hadermann`,
-      summary: `Mijn hoofd is een paleis van verhalen met kamers en gangen om in te verdwalen.`,
+      summary: `Mijn hoofd is een paleis van verhalen, met kamers en gangen om in te verdwalen.`,
     },
     description: ``,
     siteUrl: `https://verhalenpaleis.gatsbyjs.io/`,
     social: {
-      instagram: `eva.hadermann`,
       facebook: `eva.hadermann`,
     },
   },
