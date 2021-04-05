@@ -1,14 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Het verhalenpaleis`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Eva Hadermann`,
+      summary: `Mijn hoofd is een paleis van verhalen met kamers en gangen om in te verdwalen.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: ``,
+    siteUrl: `https://verhalenpaleis.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      instagram: `eva.hadermann`,
+      facebook: `eva.hadermann`,
     },
   },
   plugins: [
@@ -116,7 +117,7 @@ module.exports = {
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#663300`,
         display: `minimal-ui`,
         icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
       },
