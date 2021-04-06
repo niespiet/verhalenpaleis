@@ -31,15 +31,15 @@ lucht trillen. De grote klokken zetten meteen hun taak verder. Maar de kleine, d
 laat.
 
 “Oh nee!” klingelt hij.<br>
-“Niet erg, hoor”, galmt de grote klok links naast hem. “We hebben met ons allen voldoende eieren
+“Niet erg, hoor”, weerklinkt de grote klok links naast hem. “We hebben met ons allen voldoende eieren
 naar beneden laten vallen. Begin nu maar gewoon met jouw eitjes.” Maar de kleine klok wil niet
 zomaar opgeven.<br>
 “Mijn eitjes horen ook in elke tuin te liggen”, klinkt hij. “Ik moet teruggaan.”<br>
 “Dat gaat niet, jongen”, galmt nu ook de klok die aan de andere kant vliegt. “We moeten de hele
 nacht doorvliegen om voor de ochtend weer bij onze toren te zijn.”<br>
 Het kleine klokje zucht diep. Zijn eerste tocht is nog maar net begonnen en hij slaat al enkele tuinen
-over. Dat kan hij toch niet laten gebeuren.<br>
-Hij haalt diep adem en schiet dapper naar beneden. Terwijl hij terugvliegt, klingelt hij snel:
+over. Dat kan hij toch niet laten gebeuren.
+Hij haalt diep adem en schiet dapper naar beneden. Terwijl hij terugvliegt, klingelt hij snel:<br>
 “Ik haal jullie wel in!”.
 
 Nu hij de veilige klokkenfamilie heeft verlaten, wordt de kleine klok meteen gegrepen door de wind.
@@ -52,7 +52,7 @@ meevoeren door de wind. Wat zou er nu met hem gebeuren?
 
 Het is nog donker buiten wanneer Louis zijn ogen opent. Hij weet dat vannacht de paasklokken zijn
 langs geweest en kan niet wachten om al het lekkers te gaan ontdekken. Geruisloos glijdt hij uit zijn
-bed. Hij doet zijn kamerjas om en neemt zijn zaklamp. Op zijn tenen gaat hij de trap af.
+bed en doet zijn kamerjas om. Hij neemt zijn zaklamp en gaat op zijn tenen de trap af.
 
 Hij opent de tuindeur en schijnt met zijn zaklamp door de tuin. Er liggen enkele grote chocolade
 eieren tussen het gras. Feest! denkt Louis en hij glimlacht. Dat wordt smullen. Net voor hij de deur
@@ -77,19 +77,19 @@ gras. Zijn mond valt open van verbazing. In zijn tuin ligt… een paasklok.
 broer eitjes rapen.”<br>
 “Ik kom eraan”, roept Louis terwijl hij opstaat. “Ik… euh… ik moet nog snel even mijn zaklamp
 zoeken. Die heb ik hier laten vallen.” Hij houdt de klok verborgen en loopt snel naar zijn geheime
-kampplaats achterin de tuin. Hij weet niet zeker of de kleine klok hem begrijpt. Toch zegt hij:
+kampplaats achterin de tuin. Hij weet niet zeker of de kleine klok hem begrijpt. Toch zegt hij: <br>
 “Hier ben je even veilig. Ik kom zo snel mogelijk terug met hulp.” De klok klingelt erg zacht, alsof hij
-reageert op wat Louis zegt. Louis glimlacht naar de klok en zegt: “Alles komt goed. Tot straks!”
+reageert op wat Louis zegt. Louis glimlacht naar de klok en zegt: <br>“Alles komt goed. Tot straks!”
 
-Dan loopt hij snel naar huis, waar mama en papa hem met grote ogen aankijken.
-“Wat… euh… is er gebeurd, Louis?” vraagt papa voorzichtig.
+Dan loopt hij snel naar binnen, waar mama en papa hem met grote ogen aankijken. <br>
+“Wat… euh… is er gebeurd, Louis?” vraagt papa voorzichtig. <br>
 “Niks, niks, ik wilde gewoon al eens gaan kijken of de paasklokken geweest waren. Enneuh… toen
 ben ik gestruikeld”, antwoordt Louis snel.
-Mama kijkt hem onderzoekend aan.
+Mama kijkt hem onderzoekend aan. <br>
 “Dat is wel een lelijke buil van gewoon even te struikelen”, zegt ze.
 Louis kijkt snel even in de spiegel en schrikt zich een hoedje. Op de plaats waar de kleine klok hem
 raakte, staat inderdaad een grote buil. Maar een buil in verschillende kleuren. Je zou haast zeggen
-dat er… een paasei op zijn hoofd groeit.
+dat er… een paasei op zijn hoofd groeit.<br>
 “Oh… euh… met een pleister is dat morgen wel beter”, zegt Louis snel om mama gerust te stellen. Hij
 neemt een grote pleister en kleeft hem over de buil. Hopelijk heeft mama niet gezien dat de kleuren
 steeds feller worden. Hij glimlacht breed en steekt zijn duim op. “Zo!”<br>
@@ -106,33 +106,33 @@ van zijn bed.<br>
 “S.O.S.! Dier in nood! S.O.S.! Over.”<br>
 Het blijft stil. Gus, zijn beste vriend die wat verder woont, heeft de andere Walkie Talkie. Gus heeft
 altijd de juiste spullen op zak om dieren in nood te redden. En ook al is een paasklok geen dier, hij
-weet vast wel wat te doen. Louis probeert het nog een keer:
+weet vast wel wat te doen. Louis probeert het nog een keer: <br>
 “S.O.S.! Dier in nood! S.O.S.! Over.”<br>
-Plots klinkt er gekraak door de Walkie Talkie.
+Plots klinkt er gekraak door de Walkie Talkie.<br>
 “Herhaal noodkreet. Over.”<br>
 “S.O.S.! Dierennoodgeval! Kom meteen naar mijn tuin! Over.”<br>
 “Ik kom van zodra alle paaseieren zijn gevonden! Over en uit.”
 
-“Over welk dier gaat het?” vraagt Gus wanneer hij even later in de tuin aankomt. Louis aarzelt even.
+“Over welk dier gaat het?” vraagt Gus wanneer hij even later in de tuin aankomt. Louis aarzelt even.<br>
 “Wel,” begint hij, “het is eigenlijk niet echt een dier.”<br>
 Gus kijkt hem vragend aan. “Waar heb je mij dan voor nodig?”<br>
 “Het heeft wel vleugels!” zegt Louis snel.
-Gus snapt er niets van.
+Gus snapt er niets van.<br>
 “Louis, ik weet niets over vliegtuigen! Ik ben een dierenredder.”<br>
-Louis wijst naar zijn geheime kampplaats.
-“Ik denk dat je best zelf even een kijkje neemt, Gus”, zegt Louis voorzichtig.
+Louis wijst naar zijn geheime kampplaats.<br>
+“Ik denk dat je best zelf even een kijkje neemt, Gus”, zegt Louis voorzichtig.<br>
 “OK!” zegt Gus. Hij gooit zijn rugzak over zijn schouder en kruipt vastberaden in het geheime kamp
-van Louis. Nog geen minuut later komt Gus naar buiten gesneld. Zijn ogen zijn groot van verbazing.
-“Louis… dat is een…” begint Gus.
-“Ja…” zegt Louis meteen.
-“Louis… daar zit een… jij hebt een…” gaat Gus verder.
+van Louis. Nog geen minuut later komt Gus naar buiten gesneld. Zijn ogen zijn groot van verbazing.<br>
+“Louis… dat is een…” begint Gus.<br>
+“Ja…” zegt Louis meteen.<br>
+“Louis… daar zit een… jij hebt een…” gaat Gus verder.<br>
 “Ik weet het, Gus, ik geloof het zelf niet.”<br>
-“PAASKLOK!” roept Gus uit.
+“PAASKLOK!” roept Gus uit.<br>
 “Sssshht! Niemand mag dit weten.”
 
-Louis vertelt wat er in de vroege ochtend precies gebeurde. Gus luistert vol verbazing.
+Louis vertelt wat er in de vroege ochtend precies gebeurde. Gus luistert vol verbazing.<br>
 “Mag ik die buil van je eens zien?” vraagt Gus nieuwsgierig. Louis haalt de pleister van zijn
-voorhoofd. Gus rolt over het gras van het lachen.
+voorhoofd. Gus rolt over het gras van het lachen.<br>
 “Je hebt een groen gespikkeld paasei op je voorhoofd”, schatert hij.
 Gek, denkt Louis. Daarnet was het nog geel met blauwe strepen.
 
@@ -140,7 +140,7 @@ De twee vrienden kruipen samen weer in het kamp. De kleine klok probeert weg te 
 valt meteen weer op de grond.<br>
 “Hij heeft zijn vleugel bezeerd”, merkt Gus op. “Kijk, hij kan zijn rechtervleugel nauwelijks bewegen.”<br>
 Gus haalt enkele spullen uit zijn rugzak: een zakmes, een doekje en een stok. Ondertussen neemt
-Louis voorzichtig de klok op zijn schoot. De klok klingelt angstig, maar laat de jongens helpen.
+Louis voorzichtig de klok op zijn schoot. De klok klingelt angstig, maar laat de jongens helpen.<br>
 “Stil maar”, probeert Louis de kleine klok gerust te stellen. “Gus heeft al eerder dieren gered. Hij kan
 je helpen.”<br>
 Gus snijdt de stok in twee. Het doekje is net lang genoeg om de stok aan de vleugel vast te maken.<br>
@@ -148,7 +148,7 @@ Gus snijdt de stok in twee. Het doekje is net lang genoeg om de stok aan de vleu
 De klok klingelt dankbaar.<br>
 “Je zal dus even op krachten moeten komen. Louis, heeft hij al iets gegeten vandaag?” vraagt Gus als
 een echte dierendokter.
-Louis kijkt zijn vriend aan. “Hoe kan ik dat nu weten? Ik heb hem nog maar net gevonden. En daarbij,
+Louis kijkt zijn vriend aan.<br> “Hoe kan ik dat nu weten? Ik heb hem nog maar net gevonden. En daarbij,
 wat eten paasklokken eigenlijk?”<br>
 “Chocolade eieren natuurlijk,” lacht Gus.<br>
 “Gus, echt, het is niet omdat een paasklok paaseieren strooit, dat hij ze ook opeet. Een kip eet toch
@@ -169,9 +169,7 @@ zak tevoorschijn.<br>
 “Misschien kunnen we hier wel wat mee”, zegt hij trots.
 
 De rest van de dag proberen ze het ene na het andere om toch maar een wolk te pakken te krijgen.
-Ze springen met het vangnet zo hoog ze kunnen op de trampoline. Ze klimmen met de plastic zak in
-de hoogste boom. Ze zwaaien de lasso zo ver mogelijk de lucht in. Ze hollen met hun armen open
-van een heuvel naar beneden. In een laatste poging richt Louis de stofzuiger van mama naar de
+Ze springen met het vangnet zo hoog ze kunnen op de trampoline. Omdat ze niet hoog genoeg reiken, besluiten ze met de plastic zak in de hoogste boom te klimmen. Wanneer ook dit niets oplevert, zwaaien ze de lasso zo ver mogelijk de lucht in. Maar deze komt gewoon in volle vaar weer naar beneden. Ook met open armen van een heuvel naar beneden hollen levert nog niet het kleinste wolkje op. In een laatste poging richt Louis de stofzuiger van mama naar de
 lucht.<br>
 “Komen er al wolken naar beneden, Gus?” roept Louis boven het lawaai van de stofzuiger uit. Gus
 schudt zijn hoofd. Teleurgesteld brengt Louis de stofzuiger weer naar binnen.<br>
@@ -195,15 +193,14 @@ flesje kleurt groen, maar verder gebeurt er niets. In het tweede flesje begint d
 bruisen. Nog een andere fles duwt luchtbellen naar buiten. Het laatste flesje zorgt voor een heel fijn
 pluimpje rook dat meteen weer verdwijnt.<br>
 “Ik heb zowat alle combinaties geprobeerd”, zucht Louis. “Als die rookpluim nu eens zo groot zou
-zijn als die luchtbel en zo snel omhoog zou komen als die bubbels… Dat is het!”<br>
-De twee vrienden kijken elkaar aan en zeggen tegelijk: “We moeten alles samen gooien!”
+zijn als die luchtbel en zo snel omhoog zou komen als die bubbels… Dat is het!”
+De twee vrienden kijken elkaar aan en zeggen tegelijk: <br> “We moeten alles samen gooien!”
 
 Gus neemt het flesje en de trechter en zet het vol trots voor zijn vriend neer. Hij heeft echt altijd de
 juiste spullen in zijn rugzak zitten. En terwijl Louis heel voorzichtig alles bij elkaar giet, staat Gus klaar
 met de plastic zak om de wolk te kunnen opvangen. Eerst gebeurt er niets. Dan begint het brouwsel
 zacht te bruisen en komen steeds grotere bubbels naar boven. In de hals van de fles begint een
-luchtbel te groeien. Hierdoor kan het pluimpje rook dat zich begint te vormen niet naar buiten en
-blijft het in de bel. De luchtbel groeit wanneer er steeds meer rook in komt en wordt door de
+luchtbel te groeien, waardoor het pluimpje rook dat zich begint te vormen in de bel blijft. De luchtbel groeit wanneer er steeds meer rook in komt en wordt door de
 bubbels langzaam naar boven geduwd. Van zodra de luchtbel uit de fles komt, springt hij stuk. Er
 blijft een klein groen wolkje achter. Meteen gooit Gus de zak over het wolkje.<br>
 “Gelukt!” roept hij.
@@ -223,7 +220,7 @@ weer bij je familie....” Maar nog voor Louis zijn zin kan afmaken, schuift een
 ene kant van de tuin naar de andere. Louis en Gus kijken omhoog, maar kunnen niet zien waar de
 schaduw vandaan komt. Wanneer nog twee andere schaduwen over de tuin bewegen, begint het
 klokje luid te klingelen.<br>
-“Is dat jouw familie, klokje?” vraagt Louis. De kleine klok klingelt vrolijk. “Dan hebben ze je
+“Is dat jouw familie, klokje?” vraagt Louis. De kleine klok klingelt vrolijk.<br> “Dan hebben ze je
 gevonden!” roept Gus blij. De twee vrienden springen recht en beginnen naar de lucht te zwaaien.<br>
 “Hij is hier! De kleine klok is hier!” roepen ze.
 De schaduwen worden groter en bewegen minder snel, maar nog steeds kunnen Louis en Gus niets
@@ -232,7 +229,7 @@ opmerken in de lucht.
 De kleine klok begint omhoog te vliegen, maar stopt even voor de ogen van de jongens. Dan klingelt
 hij alsof hij afscheid neemt.<br>
 “Dag klokje”, zegt Gus.<br>
-“Wees voorzichtig, hé”, voegt Louis eraan toe.
+“Wees voorzichtig, hé”, voegt Louis eraan toe.<br>
 De kleine klok blijft nog even voor de ogen van de jongens zweven. En plots is de klok verdwenen.
 De twee vrienden zien enkel nog hoe een kleine schaduw samen met de grote schaduwen kleiner
 wordt tot ze helemaal verdwijnt.<br>
@@ -240,7 +237,7 @@ wordt tot ze helemaal verdwijnt.<br>
 zien!”<br>
 “Ik ga het klokje wel missen.” Louis pinkt een traantje weg.<br>
 “Kop op, Louis, je hebt nog een mooi aandenken”, zegt Gus troostend. Hij wijst naar het voorhoofd
-van Louis. “Het is trouwens blauw geworden… met rode stippen”, grinnikt Gus.
+van Louis. “Het is trouwens blauw geworden… met rode stippen”, grinnikt hij.
 
 Terwijl de jongens naar de tuindeur wandelen, horen ze achter zich een zachte plof. En nog één. De
 jongens kijken op en zien het ene paasei na het andere naar beneden vallen. De hele tuin wordt
