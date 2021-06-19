@@ -141,5 +141,13 @@ module.exports = {
         environments: ['production', 'development']
       },
     },
+    {
+      resolve: `gatsby-plugin-redirect-to`,
+      options: {
+        force: true,
+        isPermanent: true,
+        redirectInBrowser: true,
+      },
+    }
   ],
 }
