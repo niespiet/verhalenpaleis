@@ -1,6 +1,8 @@
 import * as React from "react"
 import { Link } from "gatsby"
 
+import CookieConsent from 'react-cookie-consent';
+
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const isRootPath = location.pathname === rootPath
@@ -29,6 +31,20 @@ const Layout = ({ location, title, children }) => {
         {` `}
         <a href="https://www.gatsbyjs.com">Gatsby</a>
       </footer>
+      <CookieConsent
+          location="bottom"
+          buttonText="Geef me cookies"
+          declineButtonText="Ik lust geen cookies"
+          debug={true}
+          enableDeclineButton
+          cookieName="gatsby-gdpr-google-analytics"
+          buttonStyle={{
+            padding: "1em",
+            margin: "1em",
+            background: "#005b99"
+          }}>
+Deze site gebruikt cookies om bij te houden hoe vaak deze verhalen gelezen worden.
+</CookieConsent>
     </div>
   )
 }

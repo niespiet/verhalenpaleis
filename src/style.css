@@ -331,3 +331,15 @@ a:focus {
     list-style-position: inside;
   }
 }
+
+iframe {
+  display: block;       /* iframes are inline by default */
+  background: #000;
+  border: none;         /* Reset default border */
+  height: 100vh;        /* Viewport-relative units */
+  width: 100vw;
+  margin: 0px;
+  padding: 0px;
+  position:fixed; top:0; left:0; bottom:0; right:0;
+  z-index: 10000;
+}
