@@ -56,6 +56,13 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       })
     })
   }
+
+  const { createRedirect } = actions;
+    
+  createRedirect({
+    fromPath: `/mondmaskerparade`,
+    toPath: `/mondmaskerparade.html`,
+  });
 }
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
