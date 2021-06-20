@@ -33,8 +33,8 @@ const Layout = ({ location, title, children }) => {
       </footer>
       <CookieConsent
           location="bottom"
-          buttonText="Geef me cookies"
-          declineButtonText="Ik lust geen cookies"
+          buttonText="Accepteren"
+          declineButtonText="Weigeren"
           debug={true}
           enableDeclineButton
           cookieName="gatsby-gdpr-google-analytics"
