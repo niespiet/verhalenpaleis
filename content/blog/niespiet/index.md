@@ -1,5 +1,5 @@
 ---
-title: Niespiet
+title: Niespiet redt het Sinterklaasfeest
 date: "2020-12-06"
 redirect: https://niespiet.be
 description: "Een lach en een traan in dit nieuwe Sinterklaasverhaal met Niespiet in de hoofdrol."

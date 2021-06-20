@@ -33,7 +33,7 @@ const Layout = ({ location, title, children }) => {
       </footer>
       <CookieConsent
           location="bottom"
-          buttonText="Accepteren"
+          buttonText="Toestaan"
           declineButtonText="Weigeren"
           debug={true}
           enableDeclineButton
