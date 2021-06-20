@@ -132,7 +132,7 @@ module.exports = {
       resolve: `gatsby-plugin-gdpr-cookies`,
       options: {
         googleAnalytics: {
-          trackingId: 'G-QX7CRPJVPP', // leave empty if you want to disable the tracker
+          trackingId: 'G-Z26GZ4ZS45', // leave empty if you want to disable the tracker
           cookieName: 'gatsby-gdpr-google-analytics', // default
           anonymize: true, // default
           allowAdFeatures: false // default
@@ -145,9 +145,8 @@ module.exports = {
       resolve: `gatsby-plugin-redirect-to`,
       options: {
         force: true,
-        isPermanent: true,
-        redirectInBrowser: true,
-      },
+        isPermanent: true
+      }
     }
   ],
 }

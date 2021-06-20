@@ -38,10 +38,18 @@ const Layout = ({ location, title, children }) => {
           debug={true}
           enableDeclineButton
           cookieName="gatsby-gdpr-google-analytics"
+          style={{ background: "#ccc" }}
           buttonStyle={{
             padding: "1em",
             margin: "1em",
-            background: "#005b99"
+            background: "#005b99",
+            color: "white"
+          }}
+          declineButtonStyle={{
+            padding: "1em",
+            margin: "1em",
+            background: "#005b99",
+            color: "white"
           }}>
 Deze site gebruikt cookies om bij te houden hoe vaak deze verhalen gelezen worden.
 </CookieConsent>
