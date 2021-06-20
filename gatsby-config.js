@@ -145,7 +145,8 @@ module.exports = {
       resolve: `gatsby-plugin-redirect-to`,
       options: {
         force: true,
-        isPermanent: true
+        isPermanent: true,
+        redirectInBrowser: true
       }
     }
   ],
