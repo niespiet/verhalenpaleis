@@ -6,7 +6,7 @@ module.exports = {
       summary: `Mijn hoofd is een paleis van verhalen, met kamers en gangen om in te verdwalen.`,
     },
     description: ``,
-    siteUrl: `https://verhalenpaleis.gatsbyjs.io/`,
+    siteUrl: `https://verhalenpaleis.be/`,
     social: {
       facebook: `eva.hadermann`,
     },
@@ -31,7 +31,8 @@ module.exports = {
       resolve: `gatsby-plugin-redirect-to`,
       options: {
         force: true,
-        isPermanent: true
+        isPermanent: true,
+        redirectInBrowser: true,
       }
     },
     {
